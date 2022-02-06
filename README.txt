@@ -1,6 +1,6 @@
 /********************************************************
 * README.txt
-* ENGR105 - Fourier Transformation Circle Drawings
+* ENGR105 - Fourier Transformation Circle Drawings - 2021
 ********************************************************/
 
 Authors: Kepler Boonstra & Nathan Sobotka
